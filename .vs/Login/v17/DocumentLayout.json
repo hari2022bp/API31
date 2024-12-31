@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|c:\\users\\wipr201792\\downloads\\loginapi\\loginapi\\login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|solutionrelative:login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|c:\\users\\wipr201792\\downloads\\loginapi\\loginapi\\login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|solutionrelative:login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|c:\\users\\wipr201792\\downloads\\loginapi\\loginapi\\login\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|solutionrelative:login\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|c:\\users\\wipr201792\\downloads\\loginapi\\loginapi\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|solutionrelative:login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|c:\\users\\wipr201792\\downloads\\loginapi\\loginapi\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|solutionrelative:login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|c:\\users\\wipr201792\\downloads\\loginapi\\loginapi\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833187F1-517B-42F7-812D-0900E1DCE2BC}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\appsettings.json",
+              "RelativeDocumentMoniker": "Login\\appsettings.json",
+              "ToolTip": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\appsettings.json",
+              "RelativeToolTip": "Login\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T11:11:51.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Login\\Program.cs",
+              "ToolTip": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Program.cs",
+              "RelativeToolTip": "Login\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:26:35.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Login\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Login\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:19:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\LoginDbContext.cs",
+              "RelativeDocumentMoniker": "Login\\LoginDbContext.cs",
+              "ToolTip": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\LoginDbContext.cs",
+              "RelativeToolTip": "Login\\LoginDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:05:07.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Model\\User.cs",
+              "RelativeToolTip": "Login\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:57:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.csproj",
+              "DocumentMoniker": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Login.csproj",
+              "RelativeDocumentMoniker": "Login\\Login.csproj",
+              "ToolTip": "C:\\Users\\WIPR201792\\Downloads\\LoginAPI\\LoginAPI\\Login\\Login.csproj",
+              "RelativeToolTip": "Login\\Login.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T04:49:02.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
